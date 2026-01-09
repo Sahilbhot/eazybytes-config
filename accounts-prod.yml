@@ -5,6 +5,7 @@ accounts:
   message: "Welcome to Accounts-ms Prod Apis"
   contactDetails:
     name: "Sahil Prod-Lead"
-    email: "0001@gmail.com"
+    email: "{cipher}fa5df4048fb9aaa39815083a7029953b58e7f63e54468caf9b6a9a565e0d3cc5"
   OnCallSupport:
     - (91)7798552844
+
