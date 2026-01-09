@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Accounts-ms Local-Apis"
+  contactDetails:
+    name: "Sahil Local_lead"
+    email: "0001@gmail.com"
+  OnCallSupport:
+    - (91)7798552844

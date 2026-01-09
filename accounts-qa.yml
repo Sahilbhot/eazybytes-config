@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Accounts-ms QA Apis"
+  contactDetails:
+    name: "Sahil Qa-Lead"
+    email: "0001@gmail.com"
+  OnCallSupport:
+    - (91)7798552844

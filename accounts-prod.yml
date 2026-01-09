@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Accounts-ms Prod Apis"
+  contactDetails:
+    name: "Sahil Prod-Lead"
+    email: "0001@gmail.com"
+  OnCallSupport:
+    - (91)7798552844
