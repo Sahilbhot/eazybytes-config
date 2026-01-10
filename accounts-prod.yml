@@ -2,12 +2,13 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Accounts-ms Production Apis webhook"
+  message: "Welcome to Accounts-ms Production Apis webhook new"
   contactDetails:
     name: "Sahil Prod-Lead"
     email: "{cipher}fa5df4048fb9aaa39815083a7029953b58e7f63e54468caf9b6a9a565e0d3cc5"
   OnCallSupport:
     - (91)7798552844
+
 
 
 
