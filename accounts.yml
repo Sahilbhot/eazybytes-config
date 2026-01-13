@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Accounts-ms Local-Apis"
+  message: "Welcome to Accounts-ms Local-Apis checking webhook"
   contactDetails:
     name: "Sahil Local_lead"
     email: "0001@gmail.com"
